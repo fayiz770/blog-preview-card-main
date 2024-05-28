@@ -37,4 +37,4 @@ You need a modern web browser to view the project.
 ### Installation
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username/blog-preview-card.git
+   git clone https://github.com/fayiz770/blog-preview-card.git
